@@ -10,6 +10,7 @@ namespace _10_DataBaseCrud
     {
         static void Main(string[] args)
         {
+            //deneme
         }
     }
 }
