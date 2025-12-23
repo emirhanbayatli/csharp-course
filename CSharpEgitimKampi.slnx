@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="09_DatabaseProject/09_DatabaseProject.csproj" Id="3b8bc80a-ca1f-405a-894f-09dc39cfa82d" />
+  <Project Path="10_DataBaseCrud/10_DataBaseCrud.csproj" Id="e02ccbcf-a8ec-4d53-8d0f-a49e61593628" />
+</Solution>
