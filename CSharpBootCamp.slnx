@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01_MainSubjects/01_MainSubjects.csproj" Id="3bc5ed75-cdd4-4337-8b49-0df7034313de" />
+  <Project Path="02_Variables/02_Variables.csproj" Id="0b7f5eca-779a-4d17-925d-d1f0380b7d25" />
+  <Project Path="03_MakingDecision/03_MakingDecision.csproj" Id="1324f591-4878-4dba-b1ef-fcad75afced5" />
+  <Project Path="04_Loops/04_Loops.csproj" Id="40480fc2-dca8-4848-98bf-828ff06ce094" />
+  <Project Path="05_LoopsWithStars/05_LoopsWithStars.csproj" Id="9904c78d-6a92-4568-b310-190a72a19e76" />
+  <Project Path="06_Arrays/06_Arrays.csproj" Id="be169152-bfa9-4ff0-a92b-8d2f8fe6f1a4" />
+  <Project Path="07_ForeachLoop/07_ForeachLoop.csproj" Id="4609b3aa-bbe4-4959-b05b-8e8582d9de09" />
+  <Project Path="08_Methods/08_Methods.csproj" Id="5de03b7d-8258-45a3-a8be-28ce5eb962ff" />
+  <Project Path="09_DatabaseProject/09_DatabaseProject.csproj" Id="3b8bc80a-ca1f-405a-894f-09dc39cfa82d" />
+  <Project Path="10_DataBaseCrud/10_DataBaseCrud.csproj" Id="e02ccbcf-a8ec-4d53-8d0f-a49e61593628" />
+</Solution>
